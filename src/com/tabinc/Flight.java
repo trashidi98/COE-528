@@ -1,6 +1,7 @@
 package com.tabinc;
 
-// Just Adding a comment 
+// Just Adding a comment
+// Adding a secondary comment
 
 public class Flight {
     private int flightNumber;
